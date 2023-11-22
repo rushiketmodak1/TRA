@@ -1,0 +1,16 @@
+{
+    "SectionID": "1",
+    "RequirementID": "1.1.1",
+    "SectionName": "Application Home Page",
+    "RequirementName": "Dashboard",
+    "TestGoal": "This test is for verifying the Dashboard of 3D case panel",
+    "TestCaseID": "TC_001",
+    "PreCondition": "Validate the dashboard of 3D case panel with As a user type (admin/Regular/guest user) Enter the valid URL of host Machine browser",
+    "description": "Need to check1.Verify that Dashboard page will have mainly two container panels.2.Panels are as below… Left Container Panel Right Container Panel3.Verify that There will be two panel containers on the page. Both panel will have 28px margin from top & bottom.4.Verify that Left panel will have 23px of left margin.5.Verify that Right panel will have 23px margin from right.6.Verify that There will be 4px margin between these to panels.7.Verify that Left & right panel will have height of 444px. 8.Verify that Left panel width will be 526px. Right panel width should be 791px.",
+    "ExpectedResult": "1.Dashboard page should have mainly two container panels.2.Panels should be as below…Left Container PanelRight Container Panel3.There should be two panel containers on the page. Both panel should have 28px margin from top & bottom.4.Left panel should have 23px of left margin.5.Right panel should have 23px margin from right.6.There should be 4px margin between these to panels. 7.Left & right panel should have height of 444px.8.Left panel width should be 526px.Right panel width should be 791px.",
+    "ActualResult": " ",
+    "status": "Pass",
+    "Issues": "Taking EMoji symbols",
+    "Result": "Pass",
+    "TestersName": "Kaveri"
+}

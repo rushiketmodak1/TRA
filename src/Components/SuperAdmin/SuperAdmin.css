@@ -1,0 +1,19 @@
+/* UserRequest.css */
+
+.Profile{
+  position: absolute;
+  float: left;
+  left: 85%;
+} 
+
+.green-button {
+  background-color: green;
+  color: white;
+}
+
+.red-button {
+  background-color: red;
+  color: white;
+}
+
+  
